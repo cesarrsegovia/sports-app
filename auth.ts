@@ -11,7 +11,7 @@ export const {
   signOut,
 } = NextAuth({
   ...authConfig, // <-- Expande la config ligera
-  
+  //asdads
   // AÑADE las cosas pesadas (Prisma)
   adapter: PrismaAdapter(prisma), 
   session: { strategy: 'database' }, 
