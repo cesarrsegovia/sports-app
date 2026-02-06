@@ -7,3 +7,5 @@ export const TOP_LEAGUES = [
   // ARGENTINA: Usamos 128 como base, pero el sistema debe ser inteligente
   { id: 128, name: "Fútbol Argentino", country: "Argentina", logo: "https://media.api-sports.io/football/leagues/128.png" },
 ];
+
+//asdsasd
